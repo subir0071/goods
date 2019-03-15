@@ -1,0 +1,5 @@
+APP_NAME: developer-jenkins-proj-env
+MS_NAME: goods
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/subir0071/goods.git
+SONAR_HOST_URL: http://sonar-developer-jenkins-proj-env-cicd.52.172.12.252.nip.io
